@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\xampp\\\\htdocs\\\\BTS-SIO-PROJET-SLAM-STATS\\\\E6\\\\Generate_Diagrams.ps1\")"
+    ]
+  }
+}
